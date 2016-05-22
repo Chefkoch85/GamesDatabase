@@ -1,0 +1,12 @@
+F:\PROGRAMM\VS 2015\CKTGamesDB\CKTGamesDB\bin\Release\CKTGamesDB.exe
+F:\PROGRAMM\VS 2015\CKTGamesDB\CKTGamesDB\bin\Release\CKTGamesDB.pdb
+F:\PROGRAMM\VS 2015\CKTGamesDB\CKTGamesDB\obj\Release\wStartup.g.cs
+F:\PROGRAMM\VS 2015\CKTGamesDB\CKTGamesDB\obj\Release\App.g.cs
+F:\PROGRAMM\VS 2015\CKTGamesDB\CKTGamesDB\obj\Release\CKTGamesDB_MarkupCompile.cache
+F:\PROGRAMM\VS 2015\CKTGamesDB\CKTGamesDB\obj\Release\CKTGamesDB_MarkupCompile.lref
+F:\PROGRAMM\VS 2015\CKTGamesDB\CKTGamesDB\obj\Release\wStartup.baml
+F:\PROGRAMM\VS 2015\CKTGamesDB\CKTGamesDB\obj\Release\CKTGamesDB.g.resources
+F:\PROGRAMM\VS 2015\CKTGamesDB\CKTGamesDB\obj\Release\CKTGamesDB.Properties.Resources.resources
+F:\PROGRAMM\VS 2015\CKTGamesDB\CKTGamesDB\obj\Release\CKTGamesDB.csproj.GenerateResource.Cache
+F:\PROGRAMM\VS 2015\CKTGamesDB\CKTGamesDB\obj\Release\CKTGamesDB.exe
+F:\PROGRAMM\VS 2015\CKTGamesDB\CKTGamesDB\obj\Release\CKTGamesDB.pdb

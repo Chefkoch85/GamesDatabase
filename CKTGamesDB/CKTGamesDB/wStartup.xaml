@@ -1,0 +1,20 @@
+﻿<Window x:Class="CKTGamesDB.wStartup"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CKTGamesDB"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="300" Width="800" WindowStartupLocation="CenterScreen"
+		WindowStyle="None" AllowsTransparency="True" Background="Transparent"
+		KeyUp="Window_KeyUp">
+    <Grid>
+        <Canvas Name="w_Canvas">
+            <Ellipse Width="200" Height="200" Canvas.Left="100" Canvas.Top="20" Fill="GhostWhite" Opacity="0.4" />
+            <Image Name="w_OkImg" Source="res/img/ok.png" Width="180" Height="0" Canvas.Left="102" Canvas.Top="120" />
+            <Image Name="w_CancelImg" Source="res/img/cancel.png" Width="170" Height="0" Canvas.Left="115" Canvas.Top="120" />
+        </Canvas>
+        <Image Source="res/img/splash.png" Opacity="0.80" />
+		<Label Name="w_InfoLbl" Content="Loading files ..." Foreground="GhostWhite" FontSize="16" FontWeight="Bold" HorizontalAlignment="Center" Margin="0,195,0,70"/>
+    </Grid>
+</Window>

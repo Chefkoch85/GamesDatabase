@@ -1,0 +1,13 @@
+F:\PROGRAMM\VS 2015\CKTGamesDB\CKTGamesDB\bin\Debug\CKTGamesDB.exe
+F:\PROGRAMM\VS 2015\CKTGamesDB\CKTGamesDB\obj\Debug\wStartup.g.cs
+F:\PROGRAMM\VS 2015\CKTGamesDB\CKTGamesDB\obj\Debug\App.g.cs
+F:\PROGRAMM\VS 2015\CKTGamesDB\CKTGamesDB\obj\Debug\CKTGamesDB_MarkupCompile.cache
+F:\PROGRAMM\VS 2015\CKTGamesDB\CKTGamesDB\obj\Debug\CKTGamesDB_MarkupCompile.lref
+F:\PROGRAMM\VS 2015\CKTGamesDB\CKTGamesDB\obj\Debug\wStartup.baml
+F:\PROGRAMM\VS 2015\CKTGamesDB\CKTGamesDB\obj\Debug\CKTGamesDB.g.resources
+F:\PROGRAMM\VS 2015\CKTGamesDB\CKTGamesDB\obj\Debug\CKTGamesDB.Properties.Resources.resources
+F:\PROGRAMM\VS 2015\CKTGamesDB\CKTGamesDB\obj\Debug\CKTGamesDB.csproj.GenerateResource.Cache
+F:\PROGRAMM\VS 2015\CKTGamesDB\CKTGamesDB\obj\Debug\CKTGamesDB.exe
+F:\PROGRAMM\VS 2015\CKTGamesDB\CKTGamesDB\obj\Debug\CKTGamesDB.pdb
+F:\PROGRAMM\VS 2015\CKTGamesDB\CKTGamesDB\bin\Debug\CKTGamesDB.pdb
+F:\PROGRAMM\VS 2015\CKTGamesDB\CKTGamesDB\obj\Debug\CKTGamesDB.csprojResolveAssemblyReference.cache
